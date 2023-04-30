@@ -1,6 +1,6 @@
 ---
-title: Someday are hard
-description: Someday are hard and you have to deal with it.
+title: Someday are hard and you have to deal with it
+description: Day by day, is a new day. You need to keep up. it's not always easy, but nobody said it was.
 author: abimanyudrmwn
 createdAt: 2023-04-3019:37:22.000Z
 ---
