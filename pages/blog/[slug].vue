@@ -7,7 +7,7 @@ const { data } = await useAsyncData(`content-${route.path}`,() =>
 </script>
 
 <template>
-    <main>
+    <main class="mx-3 sm:mx-64">
         <header>
             <h4> {{ data.title }}</h4>
             <span class="text-gray-400"> by {{ data.author }}</span>

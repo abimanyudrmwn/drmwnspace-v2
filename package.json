@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.6.0",
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
+    "nuxt-content-git": "^3.0.31"
   }
 }
