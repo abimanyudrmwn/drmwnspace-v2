@@ -1,10 +1,7 @@
-<template>
+ya<template>
 <footer class="bg-white">
     <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
         <div class="sm:flex sm:items-center sm:justify-between">
-            <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0">
-                <img src="https://chaserlazercom.vercel.app/logo.svg" class="h-8 mr-3" alt="Flowbite Logo" />
-            </a>
             <div class="bg-blue-100 justify-between flex py-1 px-3 rounded-full items-center">
                 <div class="mr-1 animate-pulse">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
