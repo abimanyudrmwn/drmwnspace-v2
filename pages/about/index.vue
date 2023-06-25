@@ -1,6 +1,6 @@
 <template>
     <main class="container mt-16 mb-20">
-        <div class="grid grid-cols-1 gap-6 mx-6 sm:grid-cols-2 sm:mx-20">
+        <div class="grid grid-cols-1 gap-6 mx-6 sm:grid-cols-2 sm:mx-10">
             <div class="">
                 <img class="h-[250px] w-[600px] rounded-lg object-cover object-center" src="https://media.licdn.com/dms/image/C5603AQGlGetQbOWlBQ/profile-displayphoto-shrink_800_800/0/1635767616125?e=2147483647&v=beta&t=1ziCZQd4i9GEn5rMhXHN6vFvK0Rza1HPHsyC_xPMyIc" />
             </div>
@@ -40,9 +40,9 @@
             </div>
         </div>
         <div class="p-3">
-            <p class="text-lg mt-6 text-justify mx-6 sm:mx-20">Hello There! My Name is Abimanyu Darmawan, Currently working at PT. Daya Moda Linear as Frontend Developer.</p>
-            <p class="text-lg mt-6 text-justify mx-6 sm:mx-20">Interested at Creative Industries. Iam Frontend Developer who specializes in using Javascript and framework like Vue and Nuxt JS. With these tools, I have the skills to build and maintain modern web applications that are fast, responsive, and interactive. I have a deep understanding of frontend technologies such as HTML, CSS, and JavaScript, and I know how to use them to create user-friendly, visually appealing web pages and applications.</p>
-            <p class="text-lg mt-6 text-justify mx-6 sm:mx-20">Because in SMK i've internship at PT Tujusemesta (Graphic Design House) I am skilled too in creating engaging and dynamic Motion Graphics, Illustration using After Effects and Adobe Illustrator, bringing your visual ideas to life.</p>
+            <p class="text-lg mt-6 text-justify mx-6 sm:mx-10">Hello There! My Name is Abimanyu Darmawan, Currently working at PT. Daya Moda Linear as Frontend Developer.</p>
+            <p class="text-lg mt-6 text-justify mx-6 sm:mx-10">Interested at Creative Industries. Iam Frontend Developer who specializes in using Javascript and framework like Vue and Nuxt JS. With these tools, I have the skills to build and maintain modern web applications that are fast, responsive, and interactive. I have a deep understanding of frontend technologies such as HTML, CSS, and JavaScript, and I know how to use them to create user-friendly, visually appealing web pages and applications.</p>
+            <p class="text-lg mt-6 text-justify mx-6 sm:mx-10">Because in SMK i've internship at PT Tujusemesta (Graphic Design House) I am skilled too in creating engaging and dynamic Motion Graphics, Illustration using After Effects and Adobe Illustrator, bringing your visual ideas to life.</p>
         </div>
     </main>
 </template>
